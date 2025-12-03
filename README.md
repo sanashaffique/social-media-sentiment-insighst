@@ -7,11 +7,10 @@ File	Description
 raw_dataset.xlsx	The original dataset downloaded from OpenDataBay.
 cleaned_dashboard.xlsx	Final Excel workbook with all dashboards, pivot tables, and calculations.
 report.docx	Detailed report summarizing insights, methodology, and conclusions.
-🔗 Dashboard Preview
 
-(Replace the link with your uploaded image URL)
+🔗 Dashboard Preview
 👉 Dashboard Screenshot:
-YOUR LINK HERE
+https://github.com/sanashaffique/social-media-sentiment-insighst/blob/main/Screenshot%202025-12-02%20233828.png
 
 🧹 Data Cleaning Summary
 Performed using Power Query + Excel formulas:
